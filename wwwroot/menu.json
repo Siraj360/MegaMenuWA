@@ -271,7 +271,7 @@
                         "Type": "image",
                         "Text": "New Link",
                         "Url": null,
-                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/wwwroot/img/product.png",
+                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/img/product.png",
                         "Icon": null,
                         "Alt": "Product Preview",
                         "Class": "me-2"
@@ -364,7 +364,7 @@
                         "Type": "image",
                         "Text": "New Link",
                         "Url": null,
-                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/wwwroot/img/about-us.png",
+                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/img/about-us.png",
                         "Icon": null,
                         "Alt": null,
                         "Class": "m-2"
@@ -535,7 +535,7 @@
                         "Type": "image",
                         "Text": null,
                         "Url": null,
-                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/wwwroot/img/avtar.png",
+                        "Src": "https://raw.githubusercontent.com/Siraj360/MegaMenuWA/gh-pages/img/avtar.png",
                         "Icon": null,
                         "Alt": "Extras Preview",
                         "Class": "img-fluid rounded-circle d-block mx-auto shadow m-2"
