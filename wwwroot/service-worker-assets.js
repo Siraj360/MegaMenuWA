@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "RAwHH0UX",
+  "version": "5SNUjYI6",
   "assets": [
     {
       "hash": "sha256-COZvFUB640C58YYYDfNIr+mv2geN/PXQ1z/RkViELok=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "_framework/MegaMenuWA.co3j5ey41q.wasm"
     },
     {
-      "hash": "sha256-SzCEYlTWoZghih9xO7P3+ud41J9Phc05fVCTC2+9jGc=",
-      "url": "_framework/MegaMenuWA.jyjdefiko0.wasm"
+      "hash": "sha256-f9QAC40n2BCikEDtMuBq0seqIiIqX+R1hWBS/voDoFw=",
+      "url": "_framework/MegaMenuWA.ddujn5ihhn.wasm"
     },
     {
       "hash": "sha256-yWh73NmmaQPKY0slQeB+AagbGoGeSBNCPcH8tvQ7MRE=",
@@ -146,7 +146,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.k8ibga7wut.wasm"
     },
     {
-      "hash": "sha256-/1CJInLY2yiujeIfbGY5KtWrtgUerFsSisQqnHWd4Rs=",
+      "hash": "sha256-ulrGZ8pQadyhYKdXOXvmv3BuGvorcEP1Ng0MLC8avFg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -226,7 +226,7 @@ self.assetsManifest = {
       "url": "menu-test.json"
     },
     {
-      "hash": "sha256-3sE6Bvtl9oE+DEbM9PGiGMIyndudVY7xTjYNv99bntM=",
+      "hash": "sha256-HWQSQ71w6l1SvuFsVTncMcyl+lPTp04ZO7JqtV3Qgjo=",
       "url": "menu.json"
     },
     {
